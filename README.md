@@ -30,13 +30,13 @@ You may **type** your queries and the chatbot will respond to it accordingly.
 
 
 ## Example Conversation via Typing
-Here is an example of user specifically asking for the file for graduation form.
+1. Here is an example of user specifically asking for the file for graduation form.
 
 ![image](https://github.com/memercz/what-is-CSM-Chatbot/assets/161113570/3fdc4a92-b597-45b7-b8d1-86a22ae46be8)
-1. User typing for the query
+2. User typing for the query "I need the file for graduation"
 
 ![image](https://github.com/memercz/what-is-CSM-Chatbot/assets/161113570/ebe7bd7e-6cb3-4ddd-a561-b331f7ae9cff)
-2. Chatbot specifically answer the query
+2. Chatbot specifically answer the query by giving the file for graduation
 
 <br> <br>
 You are also encouraged to answer this chatbot usability questionnaire to assess the chatbot's effectiveness and offer valuable feedback for further enhancement.
