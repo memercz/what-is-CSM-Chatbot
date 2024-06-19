@@ -38,8 +38,7 @@ Here is an example of user specifically asking for the file for graduation form.
 ![image](https://github.com/memercz/what-is-CSM-Chatbot/assets/161113570/ebe7bd7e-6cb3-4ddd-a561-b331f7ae9cff)
 2. Chatbot specifically answer the query
 
-\n
-\n
+<br> <br>
 You are also encouraged to answer this chatbot usability questionnaire to assess the chatbot's effectiveness and offer valuable feedback for further enhancement.
 
 Here is the link: (https://forms.gle/yUtxBa84WMWcdgVn8)
